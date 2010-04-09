@@ -1,0 +1,409 @@
+TControl Fun
+v7
+r0
+t292539613.416910
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist" Control_Fun-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib"
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv top.png" "Icons/apple tv top.png"
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv front.png" "Icons/apple tv front.png"
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/blueButton.png" "../../iPhone Resources/UICatalog/images/blueButton.png"
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/whiteButton.png" "../../iPhone Resources/UICatalog/images/whiteButton.png"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" normal i386
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004ACF754B00000000000000EE
+t1255109963
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BBF2A710000000000000110
+t1270819441
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv front.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv top.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/blueButton.png
+c0000000049FA2DC300000000000005BC
+t1241132483
+s1468
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/whiteButton.png
+c0000000049FA2DC30000000000000596
+t1241132483
+s1430
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.h
+c000000004A4F889700000000000001F8
+t1246726295
+s504
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m
+c000000004A4F8897000000000000027F
+t1246726295
+s639
+i"Control_FunAppDelegate.h"
+i"Control_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.h
+c000000004A4FD7B4000000000000047C
+t1246746548
+s1148
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m
+c000000004A4FD7210000000000000C79
+t1246746401
+s3193
+i"Control_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib
+c000000004A4FD80500000000000078F7
+t1246746629
+s30967
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch
+c000000004A4F889700000000000000BF
+t1246726295
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv front.png
+c000000004610755C000000000000230B
+t1175483740
+s8971
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv top.png
+c000000004610755C0000000000002D60
+t1175483740
+s11616
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib
+c000000004A4F88970000000000002441
+t1246726295
+s9281
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control Fun.LinkFileList
+c000000004AE1C14D00000000000001E6
+t1256309069
+s486
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o
+t1270846689
+s44200
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o
+t1270846689
+s57552
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o
+t1270846689
+s5980
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app
+t1270846813
+s374
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM
+t1270846689
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+t1270846689
+s27264
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control_FunViewController.nib
+t1270846688
+s4581
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist
+t1270846688
+s651
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/MainWindow.nib
+t1270846688
+s1107
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/PkgInfo
+t1270846688
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/apple tv front.png
+t1270846813
+s8971
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/apple tv top.png
+t1270846813
+s11616
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/blueButton.png
+t1256309076
+s1468
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/whiteButton.png
+t1256309076
+s1430
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m
+c000000004A4F8897000000000000016E
+t1246726295
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-ciurwqfqcujjlwdypmacnwfwptdh/Control_Fun_Prefix.pch.gch
+t1256309079
+s13034960
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch.gch
+t1270846689
+s15154192
+
+NControl_Fun-Info.plist
+c000000004A4FC482000000000000039D
+t1246741634
+s925
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292539613#292539613#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539489.411399
+e292539489.504346
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m292539489#292539489#0(0"0(0#0#90"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m4300739032#2274"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539489.480323
+e292539489.599585
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m292539489#292539489#0(0"0(0#0#93"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m4300739032#2280"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539489.410551
+e292539489.480237
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m292539489#292539489#0(0"0(0#0#64"/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m4300739032#2230"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib"
+s292539488.198423
+e292539488.787793
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib
+lSLF07#2@40"CompileXIB Control_FunViewController.xib292539488#292539488#0(0"0(0#0#87"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib4300739032#639"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control_FunViewController.nib" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib"
+s292539488.197818
+e292539488.573275
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292539488#292539488#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib4300739032#609"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv front.png" "../../Design/ICONS/apple tv/PNG/apple tv front.png"
+s292539498.807725
+e292539498.812168
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/apple tv front.png
+x../../Design/ICONS/apple tv/PNG/apple tv front.png
+o/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG: No such file or directory
+lSLF07#2@55"Copy ../../Design/ICONS/apple tv/PNG/apple tv front.png292539498#292539498#0(225"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1292539498#18446744073709551615#0#0(1@0"0(0#0#108"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv front.png4300739032#623"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv front.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"1#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv front.png" "Icons/apple tv front.png"
+s292539613.390633
+e292539613.406350
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/apple tv front.png
+xIcons/apple tv front.png
+lSLF07#2@29"Copy Icons/apple tv front.png292539613#292539613#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv front.png4300739032#597"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv front.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv top.png" "../../Design/ICONS/apple tv/PNG/apple tv top.png"
+s292539498.807151
+e292539498.816314
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/apple tv top.png
+x../../Design/ICONS/apple tv/PNG/apple tv top.png
+o/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG: No such file or directory
+lSLF07#2@53"Copy ../../Design/ICONS/apple tv/PNG/apple tv top.png292539498#292539498#0(225"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1292539498#18446744073709551615#0#0(1@0"0(0#0#106"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv top.png4300739032#621"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv top.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"1#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/apple tv top.png" "Icons/apple tv top.png"
+s292539613.389314
+e292539613.413793
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/apple tv top.png
+xIcons/apple tv top.png
+lSLF07#2@27"Copy Icons/apple tv top.png292539613#292539613#0(0"0(0#0#80"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv top.png4300739032#595"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Icons/apple tv top.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/blueButton.png" "../../iPhone Resources/UICatalog/images/blueButton.png"
+s278001875.921237
+e278001876.440322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/blueButton.png
+x../../iPhone Resources/UICatalog/images/blueButton.png
+lSLF07#2@59"Copy ../../iPhone Resources/UICatalog/images/blueButton.png278001875#278001876#0(0"0(0#0#112"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/blueButton.png4300885448#627"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/blueButton.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/whiteButton.png" "../../iPhone Resources/UICatalog/images/whiteButton.png"
+s278001875.923408
+e278001876.368776
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/whiteButton.png
+x../../iPhone Resources/UICatalog/images/whiteButton.png
+lSLF07#2@60"Copy ../../iPhone Resources/UICatalog/images/whiteButton.png278001875#278001876#0(0"0(0#0#113"/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/whiteButton.png4300885448#628"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/whiteButton.png" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"
+s292539489.622006
+e292539489.636008
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Control Fun.app.dSYM" "build/Debug-iphonesimulator/Control Fun.app/Control Fun"292539489#292539489#0(0"0(0#0#113"/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun4300739032#520"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" normal i386
+s292539489.599664
+e292539489.621919
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+xnormal
+xi386
+lSLF07#2@118"Link /Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun292539489#292539489#0(0"0(0#0#0"4300739032#1049"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control Fun.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist" Control_Fun-Info.plist
+s292539488.194644
+e292539488.197725
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist
+xControl_Fun-Info.plist
+lSLF07#2@30"Process Control_Fun-Info.plist292539488#292539488#0(0"0(0#0#80"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun-Info.plist8386093285582598144#616"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Control_Fun-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist"0#
+
+CProcessPCH /var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-ciurwqfqcujjlwdypmacnwfwptdh/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s278001876.745487
+e278001879.969318
+r1
+xProcessPCH
+x/var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-ciurwqfqcujjlwdypmacnwfwptdh/Control_Fun_Prefix.pch.gch
+xControl_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Control_Fun_Prefix.pch278001876#278001879#0(0"0(0#0#80"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch4300885448#2099"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch" -o /var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-ciurwqfqcujjlwdypmacnwfwptdh/Control_Fun_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539488.787921
+e292539489.410462
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch.gch
+xControl_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Control_Fun_Prefix.pch292539488#292539489#0(0"0(0#0#80"/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch4300739032#2097"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-cgaaqnvpvfzndkacbfrcozgbsntf/Control_Fun_Prefix.pch.gch0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"
+s292539613.414316
+e292539613.416867
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app
+lSLF07#2@107"Touch /Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app292539613#292539613#0(0"0(0#0#0"4300739032#386"    cd "/Users/tnovinger/Projects/iPhone Applications/Control Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+

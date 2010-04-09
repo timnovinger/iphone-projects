@@ -1,0 +1,87 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Hello World! */ = {
+		activeExec = 0;
+		executables = (
+			2A928C0B0FFE67340076B1AC /* Hello World! */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2A928C0B0FFE67340076B1AC /* Hello World! */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Hello World! */;
+		codeSenseManager = 2A928C180FFE67360076B1AC /* Code sense */;
+		executables = (
+			2A928C0B0FFE67340076B1AC /* Hello World! */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268330844;
+			PBXWorkspaceStateSaveDate = 268330844;
+		};
+		sourceControlManager = 2A928C170FFE67360076B1AC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A928C0B0FFE67340076B1AC /* Hello World! */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Hello World!";
+		sourceDirectories = (
+		);
+	};
+	2A928C170FFE67360076B1AC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2A928C180FFE67360076B1AC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* Hello_World_-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+}

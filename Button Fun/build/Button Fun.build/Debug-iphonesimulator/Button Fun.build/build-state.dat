@@ -1,0 +1,295 @@
+TButton Fun
+v7
+r0
+t292539391.821228
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Info.plist" Button_Fun-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/main.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunAppDelegate.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunViewController.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun" normal i386
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004B9973B600000000000000EE
+t1268347830
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BBF2A710000000000000110
+t1270819441
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib
+c000000004A4EC51C0000000000002DE9
+t1246676252
+s11753
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_Fun_Prefix.pch
+c000000004A4EB82C00000000000000BD
+t1246672940
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.h
+c000000004A4EB82C00000000000001F2
+t1246672940
+s498
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m
+c000000004A4EB82C000000000000027A
+t1246672940
+s634
+i"Button_FunAppDelegate.h"
+i"Button_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.h
+c000000004A4EBF5D0000000000000171
+t1246674781
+s369
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m
+c000000004A4ECF4600000000000004AB
+t1246678854
+s1195
+i"Button_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib
+c000000004A4EB82C0000000000002436
+t1246672940
+s9270
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button Fun.LinkFileList
+c000000004BBF947D00000000000001DB
+t1270846589
+s475
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunAppDelegate.o
+t1270846591
+s43952
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunViewController.o
+t1270846591
+s37316
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/main.o
+t1270846591
+s5980
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app
+t1270846591
+s238
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app.dSYM
+t1270846591
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun
+t1270846591
+s20292
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button_FunViewController.nib
+t1270846590
+s2013
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Info.plist
+t1270846589
+s603
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/MainWindow.nib
+t1270846590
+s1105
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/PkgInfo
+t1270846589
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m
+c000000004A4EB82C000000000000016D
+t1246672940
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch.gch
+t1270846590
+s15154192
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-gkrhjaclkvnfobhklqfylehmjprv/Button_Fun_Prefix.pch.gch
+t2
+s0
+
+NButton_Fun-Info.plist
+c000000004A4EB82C000000000000038D
+t1246672940
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292539389#292539389#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunAppDelegate.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539390.890204
+e292539391.269504
+r1
+xCompileC
+xbuild/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m292539390#292539391#0(0"0(0#0#88"/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m4300739032#2241"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunAppDelegate.o"0#
+
+CCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunViewController.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539391.046668
+e292539391.321431
+r1
+xCompileC
+xbuild/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m292539391#292539391#0(0"0(0#0#91"/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m4300739032#2247"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Classes/Button_FunViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button_FunViewController.o"0#
+
+CCompileC "build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/main.o" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539390.889302
+e292539391.046585
+r1
+xCompileC
+xbuild/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m292539390#292539391#0(0"0(0#0#63"/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m4300739032#2199"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Button Fun/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib"
+s292539389.621270
+e292539390.085000
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB Button_FunViewController.xib292539389#292539390#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#85"/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib4300739032#633"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button_FunViewController.nib" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_FunViewController.xib"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib"
+s292539389.609380
+e292539390.084865
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib292539389#292539390#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#71"/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib4300739032#605"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun"
+s292539391.684227
+e292539391.744533
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/Button Fun.app.dSYM" "build/Debug-iphonesimulator/Button Fun.app/Button Fun"292539391#292539391#0(0"0(0#0#110"/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun4300739032#514"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun" -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun" normal i386
+s292539391.321511
+e292539391.684148
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun
+xnormal
+xi386
+lSLF07#2@115"Link /Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun292539391#292539391#0(0"0(0#0#0"4300739032#1039"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Objects-normal/i386/Button Fun.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Button Fun"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Info.plist" Button_Fun-Info.plist
+s292539389.579993
+e292539389.609136
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Info.plist
+xButton_Fun-Info.plist
+lSLF07#2@29"Process Button_Fun-Info.plist292539389#292539389#0(0"0(0#0#78"/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_Fun-Info.plist8386093285582598144#610"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Button_Fun-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292539390.085178
+e292539390.889210
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch.gch
+xButton_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Button_Fun_Prefix.pch292539390#292539390#0(0"0(0#0#78"/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_Fun_Prefix.pch4300739032#2068"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/Button Fun-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Button Fun.build/Debug-iphonesimulator/Button Fun.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button_Fun_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-ctenyrsyhnytbraruwywbtwoimox/Button_Fun_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Button_Fun_Prefix-gkrhjaclkvnfobhklqfylehmjprv/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app"
+s292539391.744622
+e292539391.821178
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app
+lSLF07#2@105"Touch /Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app292539391#292539391#0(0"0(0#0#0"4300739032#383"    cd "/Users/tnovinger/Projects/iPhone Applications/Button Fun"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/Button Fun/build/Debug-iphonesimulator/Button Fun.app"0#
+

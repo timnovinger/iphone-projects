@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Control_FunViewController.nib</key>
+		<data>
+		pPkb7buDouNNIHvRr177IC1JTa8=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		lQ46qrPWS+dV80dQqJSv/A5RvMk=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>apple tv front.png</key>
+		<data>
+		7MWGjpls6CyTOowc1ncN8n5UZLs=
+		</data>
+		<key>apple tv top.png</key>
+		<data>
+		uMM0w6CHDD0Hzfa8RyEkFkAwsQo=
+		</data>
+		<key>blueButton.png</key>
+		<data>
+		UIt5bYJOLa+H6UncnwCuun3MwYU=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		qml9DFxD4qqSs61dQJtnIPQqslM=
+		</data>
+		<key>whiteButton.png</key>
+		<data>
+		jtjj/yT+JvMXGvSK3/Vprqp+vAk=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

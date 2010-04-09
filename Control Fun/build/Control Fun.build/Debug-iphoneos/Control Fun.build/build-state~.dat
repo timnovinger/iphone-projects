@@ -1,0 +1,231 @@
+TControl Fun
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004ABDAC680000000000000110
+t1253944424
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv front.png
+c000000004610755C000000000000230B
+t1175483740
+s8971
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../Design/ICONS/apple tv/PNG/apple tv top.png
+c000000004610755C0000000000002D60
+t1175483740
+s11616
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/blueButton.png
+c0000000049FA2DC300000000000005BC
+t1241132483
+s1468
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/../../iPhone Resources/UICatalog/images/whiteButton.png
+c0000000049FA2DC30000000000000596
+t1241132483
+s1430
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.h
+c000000004A4F889700000000000001F8
+t1246726295
+s504
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m
+c000000004A4F8897000000000000027F
+t1246726295
+s639
+i"Control_FunAppDelegate.h"
+i"Control_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.h
+c000000004A4FD7B4000000000000047C
+t1246746548
+s1148
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m
+c000000004A4FD7210000000000000C79
+t1246746401
+s3193
+i"Control_FunViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib
+c000000004A4FD80500000000000078F7
+t1246746629
+s30967
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_Fun_Prefix.pch
+c000000004A4F889700000000000000BF
+t1246726295
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib
+c000000004A4F88970000000000002441
+t1246726295
+s9281
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control Fun.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunAppDelegate.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunViewController.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app.dSYM
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Control_FunViewController.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Info.plist
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/MainWindow.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/PkgInfo
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/ResourceRules.plist
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/apple tv front.png
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/apple tv top.png
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/blueButton.png
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/whiteButton.png
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m
+c000000004A4F8897000000000000016E
+t1246726295
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-dqhltryufdhafqaqinblnqgcizob/Control_Fun_Prefix.pch.gch
+t2
+s0
+
+NControl_Fun-Info.plist
+c000000004A4FC482000000000000039D
+t1246741634
+s925
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277346074#277346075#0(140"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Control-Fun' could not be found1(4@132"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Control-Fun' could not be found277346075#18446744073709551615#0#0(1@0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunAppDelegate.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunViewController.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Classes/Control_FunViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/main.o" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/Control_FunViewController.xib"
+r0
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Control Fun/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/apple tv front.png" "../../Design/ICONS/apple tv/PNG/apple tv front.png"
+r0
+
+CCopyPNGFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/apple tv top.png" "../../Design/ICONS/apple tv/PNG/apple tv top.png"
+r0
+
+CCopyPNGFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/blueButton.png" "../../iPhone Resources/UICatalog/images/blueButton.png"
+r0
+
+CCopyPNGFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/whiteButton.png" "../../iPhone Resources/UICatalog/images/whiteButton.png"
+r0
+
+CCpResource "build/Debug-iphoneos/Control Fun.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun"
+r0
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app/Info.plist" Control_Fun-Info.plist
+r0
+
+CProcessPCH /var/folders/MX/MXk0Lr+JElquTl-yc50XCk+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/Control_Fun_Prefix-dqhltryufdhafqaqinblnqgcizob/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Control Fun/build/Debug-iphoneos/Control Fun.app"
+r0
+
