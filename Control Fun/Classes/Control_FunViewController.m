@@ -36,7 +36,8 @@
 		delegate:self
 		cancelButtonTitle:@"Cancel"
 		destructiveButtonTitle:@"Continue"
-	    otherButtonTitles:nil]; 
+		otherButtonTitles:nil
+	];
 	[actionSheet showInView:self.view];
 	[actionSheet release];
 }
@@ -59,7 +60,9 @@
 			message:msg
 			delegate:self
 			cancelButtonTitle:@"continue"
-			otherButtonTitles:nil];
+			otherButtonTitles:nil
+		];
+		
 		[alert show];
 		[alert release];
 		[msg release];
