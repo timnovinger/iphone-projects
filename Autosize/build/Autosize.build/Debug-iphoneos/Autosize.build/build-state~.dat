@@ -1,0 +1,56 @@
+TAutosize
+v7
+r1
+cCheck dependencies
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib
+c000000004A502D4D00000000000037F7
+t1246768461
+s14327
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib
+c000000004A5028630000000000002420
+t1246767203
+s9248
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/AutosizeViewController.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/MainWindow.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/PkgInfo
+t2
+s0
+
+NAutosize-Info.plist
+c000000004A502863000000000000038D
+t1246767203
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297820206#297820206#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1'1(4@58"error: There is no SDK with the name or path 'iphoneos3.1'297820206#18446744073709551615#0#0(1@0"0(0#1#0"8618239392#0"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib"
+r0
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist" Autosize-Info.plist
+r0
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"
+r0
+

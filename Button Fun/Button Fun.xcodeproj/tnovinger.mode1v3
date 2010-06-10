@@ -323,13 +323,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>2AB30335116FCC1100905328</string>
+										<string>2A19BDEA11B6D21400914CD1</string>
 										<key>history</key>
 										<array>
 											<string>2A92AB830FFFC00C00F5FFE2</string>
 											<string>2A92AB840FFFC00C00F5FFE2</string>
 											<string>2A92AB850FFFC00C00F5FFE2</string>
-											<string>2A92AB8A0FFFC00C00F5FFE2</string>
+											<string>2AB30335116FCC1100905328</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -341,14 +341,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {602, 587}}</string>
+								<string>{{0, 0}, {602, 582}}</string>
 								<key>RubberWindowFrame</key>
 								<string>54 239 781 811 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>587pt</string>
+							<string>582pt</string>
 						</dict>
 						<dict>
 							<key>BecomeActive</key>
@@ -363,14 +363,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 592}, {602, 178}}</string>
+								<string>{{0, 587}, {602, 183}}</string>
 								<key>RubberWindowFrame</key>
 								<string>54 239 781 811 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>178pt</string>
+							<string>183pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -389,9 +389,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>2AB30328116FCB8E00905328</string>
+				<string>2A19BDEB11B6D21400914CD1</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>2AB30329116FCB8E00905328</string>
+				<string>2A19BDEC11B6D21400914CD1</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -533,8 +533,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>2A92AB5A0FFEFC7400F5FFE2</string>
 		<string>/Users/tnovinger/Projects/iPhone Applications/Button Fun/Button Fun.xcodeproj</string>
 	</array>
@@ -616,7 +614,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>2A92AB5A0FFEFC7400F5FFE2</string>
-				<string>2AB3032A116FCB8E00905328</string>
+				<string>2A19BDED11B6D21400914CD1</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

@@ -1,0 +1,429 @@
+TAutosize
+v7
+r0
+t297820272.252473
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Autosize.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist" Autosize-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize" normal armv6
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize" normal armv7
+cCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize"
+cProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent"
+cCodeSign "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+c000000004C0698BA0000000000001DEE
+t1275500730
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib
+c000000004A502D4D00000000000037F7
+t1246768461
+s14327
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch
+c000000004A50286300000000000000B9
+t1246767203
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.h
+c000000004A50286300000000000001E6
+t1246767203
+s486
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m
+c000000004A5028630000000000000270
+t1246767203
+s624
+i"AutosizeAppDelegate.h"
+i"AutosizeViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.h
+c000000004A50286300000000000000F2
+t1246767203
+s242
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m
+c000000004A5029F2000000000000063B
+t1246767602
+s1595
+i"AutosizeViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib
+c000000004A5028630000000000002420
+t1246767203
+s9248
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent
+t1276127461
+s422
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize
+t1276127460
+s16364
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize.LinkFileList
+c000000004C1028E200000000000001B3
+t1276127458
+s435
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeAppDelegate.o
+t1276127460
+s45028
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeViewController.o
+t1276127460
+s34836
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/main.o
+t1276127460
+s6472
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize
+t1276127461
+s16364
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize.LinkFileList
+c000000004C1028E200000000000001B3
+t1276127458
+s435
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeAppDelegate.o
+t1276127460
+s44960
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeViewController.o
+t1276127460
+s34808
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/main.o
+t1276127460
+s6456
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app
+t1276127461
+s374
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app.dSYM
+t1276127461
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize
+t1276127461
+s50912
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/AutosizeViewController.nib
+t1276127459
+s2075
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist
+t1276127458
+s730
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/MainWindow.nib
+t1276127459
+s1101
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/PkgInfo
+t1276127458
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/ResourceRules.plist
+t1276127458
+s485
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision
+t1276127461
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m
+c000000004A502863000000000000016B
+t1246767203
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch.gch
+t1276127460
+s9831984
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch.gch
+t1276127460
+s10290736
+
+NAutosize-Info.plist
+c000000004A502863000000000000038D
+t1246767203
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297820272#297820272#0(0"0(0#1#0"8623939680#0"0#
+
+CCodeSign "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"
+s297820261.172799
+e297820261.759110
+r1
+xCodeSign
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app
+lSLF07#2@42"CodeSign build/Debug-iphoneos/Autosize.app297820261#297820261#0(0"0(0#0#88"/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app8623575392#791"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Nick Roethemeier (LR4XZK6429)" "--resource-rules=/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/ResourceRules.plist" --entitlements "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297820260.612202
+e297820260.766511
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m297820260#297820260#0(0"0(0#0#84"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m8623655040#2042"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeAppDelegate.o"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297820260.685618
+e297820260.791054
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m297820260#297820260#0(0"0(0#0#87"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m8622700288#2048"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/AutosizeViewController.o"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297820260.610998
+e297820260.685511
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/main.m297820260#297820260#0(0"0(0#0#61"/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m8625736800#2004"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297820260.812905
+e297820260.885864
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m297820260#297820260#0(0"0(0#0#84"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m8619386720#2042"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeAppDelegate.o"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297820260.885946
+e297820260.958908
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m297820260#297820260#0(0"0(0#0#87"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m8614565760#2048"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/AutosizeViewController.o"0#
+
+CCompileC build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297820260.766602
+e297820260.812820
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/main.m297820260#297820260#0(0"0(0#0#61"/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m8620494336#2004"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib"
+s297820258.821427
+e297820259.553023
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib
+lSLF07#2@37"CompileXIB AutosizeViewController.xib297820258#297820259#0(0"0(0#0#81"/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib8623887136#683"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/AutosizeViewController.nib" "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib"
+s297820258.814372
+e297820259.481622
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297820258#297820259#0(0"0(0#0#69"/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib8625970496#659"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/Autosize.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s297820258.782663
+e297820258.814051
+r1
+xCpResource
+xbuild/Debug-iphoneos/Autosize.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist297820258#297820258#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8620089376#579"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"0#
+
+CCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize" normal "armv6 armv7"
+s297820261.041823
+e297820261.076847
+r1
+xCreateUniversalBinary
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Debug-iphoneos/Autosize.app/Autosize normal "armv6 armv7"297820261#297820261#0(0"0(0#0#66"/Users/tnovinger/Projects/iPhone Applications/Autosize/armv6 armv78623154080#660"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize" -output "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize"0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize"
+s297820261.076927
+e297820261.132460
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize
+lSLF07#2@98"GenerateDSYMFile build/Debug-iphoneos/Autosize.app.dSYM build/Debug-iphoneos/Autosize.app/Autosize297820261#297820261#0(0"0(0#0#97"/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize8622552448#481"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Autosize" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize" normal armv6
+s297820260.791138
+e297820261.020857
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize
+xnormal
+xarmv6
+lSLF07#2@140"Link /Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize297820260#297820261#0(0"0(0#0#0"8620046368#1017"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" -filelist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv6/Autosize"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize" normal armv7
+s297820260.958986
+e297820261.041743
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize
+xnormal
+xarmv7
+lSLF07#2@140"Link /Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize297820260#297820261#0(0"0(0#0#0"8625965248#1017"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" -filelist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Objects-normal/armv7/Autosize"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist" Autosize-Info.plist
+s297820258.783949
+e297820258.814315
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist
+xAutosize-Info.plist
+lSLF07#2@27"Process Autosize-Info.plist297820258#297820258#0(0"0(0#0#74"/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize-Info.plist8620622560#700"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Autosize-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/ResourceRules.plist" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297820259.553127
+e297820260.472512
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch.gch
+xAutosize_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Autosize_Prefix.pch297820259#297820260#0(0"0(0#0#74"/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch8620219744#1883"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-adirdpkizadklmcqzuphvxrxlvbw/Autosize_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297820259.553889
+e297820260.610889
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch.gch
+xAutosize_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Autosize_Prefix.pch297820259#297820260#0(0"0(0#0#74"/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch8620004096#1883"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-ekvhynipflgatmehfxmvifzgeeia/Autosize_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision"
+s297820261.132696
+e297820261.145236
+r1
+xProcessProductPackaging
+x/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" build/Debug-iphoneos/Autosize.app/embedded.mobileprovision297820261#297820261#0(0"0(0#0#113"/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision8620079648#526"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent"
+s297820261.158621
+e297820261.172740
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent297820261#297820261#0(0"0(0#0#120"/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent8625928064#533"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphoneos/Autosize.build/Autosize.xcent"0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"
+s297820261.145292
+e297820261.158541
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app
+lSLF07#2@94"Touch /Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app297820261#297820261#0(0"0(0#0#0"8619617536#363"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphoneos/Autosize.app"0#
+

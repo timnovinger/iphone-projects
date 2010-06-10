@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	1D3623250D0F684500981E51 /* AutosizeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {765, 642}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 624}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Autosize */ = {
 		activeExec = 0;
 		executables = (
@@ -8,15 +15,15 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {519, 980}}";
-			sepNavSelRange = "{1241, 0}";
-			sepNavVisRange = "{1246, 349}";
+			sepNavIntBoundsRect = "{{0, 0}, {765, 858}}";
+			sepNavSelRange = "{1371, 0}";
+			sepNavVisRange = "{233, 1362}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 2A92AC5A10005FE300F5FFE2 /* Autosize */;
-		activeSDKPreference = iphonesimulator3.1;
+		activeSDKPreference = iphonesimulator4.0;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Autosize */;
 		codeSenseManager = 2A92AC6110005FEC00F5FFE2 /* Code sense */;
 		executables = (
@@ -28,9 +35,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					587,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -45,16 +52,47 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 268460003;
-			PBXWorkspaceStateSaveDate = 268460003;
+			PBXPerProjectTemplateStateSaveDate = 297819060;
+			PBXWorkspaceStateSaveDate = 297819060;
 		};
 		perUserProjectItems = {
-			2A92AC671000659800F5FFE2 /* PBXTextBookmark */ = 2A92AC671000659800F5FFE2 /* PBXTextBookmark */;
-			2A92AC681000659800F5FFE2 /* PBXTextBookmark */ = 2A92AC681000659800F5FFE2 /* PBXTextBookmark */;
+			2A2920BC11C06A66008237BF /* PBXTextBookmark */ = 2A2920BC11C06A66008237BF /* PBXTextBookmark */;
+			2A2920BD11C06A66008237BF /* PBXTextBookmark */ = 2A2920BD11C06A66008237BF /* PBXTextBookmark */;
+			2A2920BE11C06A66008237BF /* PBXTextBookmark */ = 2A2920BE11C06A66008237BF /* PBXTextBookmark */;
 		};
 		sourceControlManager = 2A92AC6010005FEC00F5FFE2 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	2A2920BC11C06A66008237BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AutosizeAppDelegate.m */;
+		name = "AutosizeAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	2A2920BD11C06A66008237BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
+		name = "AutosizeViewController.m: 50";
+		rLen = 0;
+		rLoc = 1371;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 334;
+	};
+	2A2920BE11C06A66008237BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
+		name = "AutosizeViewController.m: 50";
+		rLen = 0;
+		rLoc = 1371;
+		rType = 0;
+		vrLen = 1362;
+		vrLoc = 233;
 	};
 	2A92AC5A10005FE300F5FFE2 /* Autosize */ = {
 		isa = PBXExecutable;
@@ -67,6 +105,9 @@
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
 		dylibVariantSuffix = "";
@@ -77,6 +118,9 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = Autosize;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
 		sourceDirectories = (
 		);
 	};
@@ -85,30 +129,13 @@
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
 		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
 		};
 	};
 	2A92AC6110005FEC00F5FFE2 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	2A92AC671000659800F5FFE2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
-		name = "AutosizeViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 527;
-		vrLoc = 0;
-	};
-	2A92AC681000659800F5FFE2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* AutosizeViewController.m */;
-		name = "AutosizeViewController.m: 45";
-		rLen = 0;
-		rLoc = 1241;
-		rType = 0;
-		vrLen = 349;
-		vrLoc = 1246;
 	};
 }

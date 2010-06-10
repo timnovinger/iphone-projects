@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AmIDownAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 475}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AmIDownAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 848}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AmIDown */ = {
+		activeExec = 0;
+		executables = (
+			2AB8C9511173B0A900589E04 /* AmIDown */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 236}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{661, 798}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2AB8C9511173B0A900589E04 /* AmIDown */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AmIDown */;
+		codeSenseManager = 2AB8C9611173B0AF00589E04 /* Code sense */;
+		executables = (
+			2AB8C9511173B0A900589E04 /* AmIDown */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					556,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297822774;
+			PBXWorkspaceStateSaveDate = 297822774;
+		};
+		perUserProjectItems = {
+			2A19BE3811B6D36000914CD1 /* PlistBookmark */ = 2A19BE3811B6D36000914CD1 /* PlistBookmark */;
+			2A19BE3911B6D36000914CD1 /* PBXTextBookmark */ = 2A19BE3911B6D36000914CD1 /* PBXTextBookmark */;
+			2A19BE3A11B6D36000914CD1 /* PBXTextBookmark */ = 2A19BE3A11B6D36000914CD1 /* PBXTextBookmark */;
+			2A19BE4611B6D3AC00914CD1 /* PBXTextBookmark */ = 2A19BE4611B6D3AC00914CD1 /* PBXTextBookmark */;
+			2A19BE5111B6D68200914CD1 /* PBXTextBookmark */ = 2A19BE5111B6D68200914CD1 /* PBXTextBookmark */;
+			2A2920BA11C06A60008237BF /* PBXTextBookmark */ = 2A2920BA11C06A60008237BF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2AB8C9601173B0AF00589E04 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A19BE3811B6D36000914CD1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AmIDown-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2A19BE3911B6D36000914CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	2A19BE3A11B6D36000914CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 661;
+	};
+	2A19BE4611B6D3AC00914CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AmIDownAppDelegate.h */;
+		name = "AmIDownAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 475;
+		vrLoc = 0;
+	};
+	2A19BE5111B6D68200914CD1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AmIDownAppDelegate.m */;
+		name = "AmIDownAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 0;
+	};
+	2A2920BA11C06A60008237BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AmIDownAppDelegate.m */;
+		name = "AmIDownAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 0;
+	};
+	2AB8C9511173B0A900589E04 /* AmIDown */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AmIDown;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2AB8C9601173B0AF00589E04 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2AB8C9611173B0AF00589E04 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,428 @@
+TAmIDown
+v7
+r0
+t297194738.365296
+cCheck dependencies
+cCpResource build/Debug-iphoneos/AmIDown.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist" AmIDown-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown" normal armv6
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown" normal armv7
+cCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown"
+cProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent"
+cCodeSign "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BD905DB00000000000001A7
+t1272514011
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+c000000004C0698BA0000000000001DEE
+t1275500730
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch
+c000000004BC3792900000000000000B7
+t1271101737
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.h
+c000000004BC3792900000000000001DB
+t1271101737
+s475
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+c000000004BC3792900000000000003B8
+t1271101737
+s952
+i"AmIDownAppDelegate.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.h
+c000000004BC3792900000000000000EC
+t1271101737
+s236
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+c000000004BC3792900000000000005B3
+t1271101737
+s1459
+i"FirstViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib
+c000000004C069D6700000000000079C9
+t1275501927
+s31177
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib
+c000000004BC379290000000000004BFA
+t1271101737
+s19450
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent
+t1275501937
+s416
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown
+t1275501937
+s16140
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown.LinkFileList
+c000000004C069D6F00000000000001A6
+t1275501935
+s422
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o
+t1275501937
+s48076
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o
+t1275501937
+s34256
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o
+t1275501937
+s6468
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown
+t1275501937
+s16140
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown.LinkFileList
+c000000004C069D6F00000000000001A6
+t1275501935
+s422
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o
+t1275501937
+s48012
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o
+t1275501937
+s34236
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o
+t1275501937
+s6452
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app
+t1275501938
+s374
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM
+t1275501937
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown
+t1275501937
+s50688
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist
+t1275501935
+s709
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/MainWindow.nib
+t1275501936
+s2583
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/PkgInfo
+t1275501935
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/ResourceRules.plist
+t1275501935
+s485
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/SecondView.nib
+t1275501936
+s1706
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision
+t1275501937
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+c000000004BC379290000000000000167
+t1271101737
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch
+t2
+s0
+
+NAmIDown-Info.plist
+c000000004BC37966000000000000038B
+t1271101798
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297194735#297194735#0(0"0(0#1#0"8620726944#0"0#
+
+CCodeSign "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+s297194737.845165
+e297194738.365248
+r1
+xCodeSign
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/AmIDown.app297194737#297194738#0(0"0(0#0#86"/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app8620823680#782"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Nick Roethemeier (LR4XZK6429)" "--resource-rules=/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/ResourceRules.plist" --entitlements "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297194737.464484
+e297194737.547445
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m297194737#297194737#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m8620883968#2009"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297194737.520262
+e297194737.585602
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m297194737#297194737#0(0"0(0#0#83"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m8621173792#2011"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297194737.463615
+e297194737.520168
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m297194737#297194737#0(0"0(0#0#60"/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m8616785632#1973"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297194737.615629
+e297194737.703958
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m297194737#297194737#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m8620251104#2009"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297194737.631287
+e297194737.705356
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m297194737#297194737#0(0"0(0#0#83"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m8615938848#2011"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297194737.547533
+e297194737.615543
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m297194737#297194737#0(0"0(0#0#60"/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m8612884736#1973"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"
+s297194735.584296
+e297194736.312090
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297194735#297194736#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib8622973760#655"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"
+s297194735.584917
+e297194736.369989
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib297194735#297194736#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib8622716864#655"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/SecondView.nib" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/AmIDown.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s297194735.552791
+e297194735.584234
+r1
+xCpResource
+xbuild/Debug-iphoneos/AmIDown.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist297194735#297194735#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8616919328#576"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"0#
+
+CCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown" normal "armv6 armv7"
+s297194737.729148
+e297194737.765308
+r1
+xCreateUniversalBinary
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/AmIDown.app/AmIDown normal "armv6 armv7"297194737#297194737#0(0"0(0#0#65"/Users/tnovinger/Projects/iPhone Applications/AmIDown/armv6 armv78622675808#648"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown" -output "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown"0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown"
+s297194737.765394
+e297194737.787825
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/AmIDown.app.dSYM build/Debug-iphoneos/AmIDown.app/AmIDown297194737#297194737#0(0"0(0#0#94"/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown8622362752#475"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown" normal armv6
+s297194737.585687
+e297194737.631194
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown
+xnormal
+xarmv6
+lSLF07#2@136"Link /Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown297194737#297194737#0(0"0(0#0#0"8622207072#1006"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" -filelist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown" normal armv7
+s297194737.705426
+e297194737.729067
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown
+xnormal
+xarmv7
+lSLF07#2@136"Link /Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown297194737#297194737#0(0"0(0#0#0"8612010400#1006"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" -filelist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist" AmIDown-Info.plist
+s297194735.553694
+e297194735.583395
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist
+xAmIDown-Info.plist
+lSLF07#2@26"Process AmIDown-Info.plist297194735#297194735#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown-Info.plist8614957024#692"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AmIDown-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/ResourceRules.plist" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297194736.370861
+e297194737.363449
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch
+xAmIDown_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile AmIDown_Prefix.pch297194736#297194737#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch8622369312#1854"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297194736.370096
+e297194737.463525
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch
+xAmIDown_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile AmIDown_Prefix.pch297194736#297194737#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch8622741888#1854"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision"
+s297194737.787909
+e297194737.807974
+r1
+xProcessProductPackaging
+x/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision297194737#297194737#0(0"0(0#0#111"/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision8622973248#523"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent"
+s297194737.820899
+e297194737.845104
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent297194737#297194737#0(0"0(0#0#116"/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent8622143488#528"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent"0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+s297194737.808036
+e297194737.820817
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app
+lSLF07#2@92"Touch /Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app297194737#297194737#0(0"0(0#0#0"8622636960#360"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"0#
+

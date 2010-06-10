@@ -1,0 +1,2 @@
+/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m: In function '-[BrowserAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m:26: error: request for member 'view' in something not a structure or union

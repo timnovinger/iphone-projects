@@ -1,0 +1,242 @@
+TAmIDown
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BEBA19E0000000000000110
+t1273733534
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BD905DB00000000000001E5
+t1272514011
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BEA3D0F000000000034A850
+t1273642255
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BEA43F000000000003E1D30
+t1273644016
+s4070704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BEA43CC0000000000001466
+t1273643980
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BEA51B400000000000009CD
+t1273647540
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BEA52CC0000000002D51C40
+t1273647820
+s47520832
+
+N/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+c000000004C0698BA0000000000001DEE
+t1275500730
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch
+c000000004BC3792900000000000000B7
+t1271101737
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.h
+c000000004BC3792900000000000001DB
+t1271101737
+s475
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+c000000004BC3792900000000000003B8
+t1271101737
+s952
+i"AmIDownAppDelegate.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.h
+c000000004BC3792900000000000000EC
+t1271101737
+s236
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+c000000004BC3792900000000000005B3
+t1271101737
+s1459
+i"FirstViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib
+c000000004BC3792900000000000078EF
+t1271101737
+s30959
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib
+c000000004BC379290000000000004BFA
+t1271101737
+s19450
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/MainWindow.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/PkgInfo
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/ResourceRules.plist
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/SecondView.nib
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+c000000004BC379290000000000000167
+t1271101737
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch
+t2
+s0
+
+NAmIDown-Info.plist
+c000000004BC37966000000000000038B
+t1271101798
+s907
+
+CCodeSign "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"
+r0
+
+CCpResource build/Debug-iphoneos/AmIDown.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/AmIDown"
+r0
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv6/AmIDown" normal armv6
+r0
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/Objects-normal/armv7/AmIDown" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/Info.plist" AmIDown-Info.plist
+r0
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-fximhnxeltezinbcknquighrqnab/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-grgkwzoohrqfzrgsbldgjqstumrc/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphoneos/AmIDown.build/AmIDown.xcent"
+r0
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphoneos/AmIDown.app"
+r0
+

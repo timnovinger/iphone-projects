@@ -1,0 +1,256 @@
+TAutosize
+v7
+r0
+t297820291.348908
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist" Autosize-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" normal i386
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C0E58C80000000000000132
+t1276008648
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib
+c000000004A502D4D00000000000037F7
+t1246768461
+s14327
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch
+c000000004A50286300000000000000B9
+t1246767203
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.h
+c000000004A50286300000000000001E6
+t1246767203
+s486
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m
+c000000004A5028630000000000000270
+t1246767203
+s624
+i"AutosizeAppDelegate.h"
+i"AutosizeViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.h
+c000000004A50286300000000000000F2
+t1246767203
+s242
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m
+c000000004A5029F2000000000000063B
+t1246767602
+s1595
+i"AutosizeViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib
+c000000004A5028630000000000002420
+t1246767203
+s9248
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList
+c000000004C1028FC00000000000001C5
+t1276127484
+s453
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+t1276127485
+s45340
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+t1276127485
+s35020
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+t1276127485
+s6336
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app
+t1276127485
+s238
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+t1276127485
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+t1276127485
+s16384
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib
+t1276127484
+s2077
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+t1276127484
+s595
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib
+t1276127484
+s1101
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo
+t1276127484
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m
+c000000004A502863000000000000016B
+t1246767203
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch.gch
+t1276127485
+s15232016
+
+NAutosize-Info.plist
+c000000004A502863000000000000038D
+t1246767203
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297820291#297820291#0(0"0(0#1#0"8630365248#0"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820285.390496
+e297820285.484393
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m297820285#297820285#0(0"0(0#0#84"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m8626496512#2219"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820285.450289
+e297820285.504159
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m297820285#297820285#0(0"0(0#0#87"/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m8624004160#2225"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Classes/AutosizeViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820285.383015
+e297820285.450202
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/tnovinger/Projects/iPhone Applications/Autosize/main.m297820285#297820285#0(0"0(0#0#61"/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m8625640832#2181"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib"
+s297820284.204699
+e297820284.757960
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib
+lSLF07#2@37"CompileXIB AutosizeViewController.xib297820284#297820284#0(0"0(0#0#81"/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib8624155520#711"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib" "/Users/tnovinger/Projects/iPhone Applications/Autosize/AutosizeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib"
+s297820284.197226
+e297820284.711526
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297820284#297820284#0(0"0(0#0#69"/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib8609485984#687"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Autosize/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"
+s297820285.526625
+e297820285.539663
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Autosize.app.dSYM build/Debug-iphonesimulator/Autosize.app/Autosize297820285#297820285#0(0"0(0#0#104"/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize8623002688#502"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" normal i386
+s297820285.504241
+e297820285.526544
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+xnormal
+xi386
+lSLF07#2@109"Link /Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize297820285#297820285#0(0"0(0#0#0"8616349568#1057"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist" Autosize-Info.plist
+s297820284.189786
+e297820284.197028
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+xAutosize-Info.plist
+lSLF07#2@27"Process Autosize-Info.plist297820284#297820284#0(0"0(0#0#74"/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize-Info.plist8624094464#598"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Autosize-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820284.758100
+e297820285.382924
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch.gch
+xAutosize_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Autosize_Prefix.pch297820284#297820285#0(0"0(0#0#74"/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch8609305920#2054"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/Autosize_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-csuprgajpvchdqfhbkcajwcdiaup/Autosize_Prefix.pch.gch0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app"
+s297820285.539738
+e297820285.542096
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app
+lSLF07#2@101"Touch /Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app297820285#297820285#0(0"0(0#0#0"8620569216#377"    cd "/Users/tnovinger/Projects/iPhone Applications/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/Autosize/build/Debug-iphonesimulator/Autosize.app"0#
+

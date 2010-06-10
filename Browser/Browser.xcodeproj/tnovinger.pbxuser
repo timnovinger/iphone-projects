@@ -1,0 +1,180 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* BrowserAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{593, 0}";
+			sepNavVisRange = "{340, 1866}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Browser */ = {
+		activeExec = 0;
+		executables = (
+			2AA8475F11C0783B009B8FEF /* Browser */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BrowserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 752}}";
+			sepNavSelRange = "{636, 0}";
+			sepNavVisRange = "{0, 654}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BrowserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 1716}}";
+			sepNavSelRange = "{2683, 0}";
+			sepNavVisRange = "{1596, 1437}";
+			sepNavWindowFrame = "{{15, 855}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2AA8475F11C0783B009B8FEF /* Browser */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Browser */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Browser */,
+		);
+		codeSenseManager = 2AA8477111C07843009B8FEF /* Code sense */;
+		executables = (
+			2AA8475F11C0783B009B8FEF /* Browser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					818,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297826363;
+			PBXWorkspaceStateSaveDate = 297826363;
+		};
+		perUserProjectItems = {
+			2AA8478311C07956009B8FEF /* PBXTextBookmark */ = 2AA8478311C07956009B8FEF /* PBXTextBookmark */;
+			2AA847A711C07B97009B8FEF /* PBXTextBookmark */ = 2AA847A711C07B97009B8FEF /* PBXTextBookmark */;
+			2AA847BB11C07D73009B8FEF /* PBXTextBookmark */ = 2AA847BB11C07D73009B8FEF /* PBXTextBookmark */;
+			2AA847BC11C07D73009B8FEF /* PBXBookmark */ = 2AA847BC11C07D73009B8FEF /* PBXBookmark */;
+			2AA847BD11C07D73009B8FEF /* PBXBookmark */ = 2AA847BD11C07D73009B8FEF /* PBXBookmark */;
+			2AA847C811C07E3D009B8FEF /* PlistBookmark */ = 2AA847C811C07E3D009B8FEF /* PlistBookmark */;
+		};
+		sourceControlManager = 2AA8477011C07843009B8FEF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2AA8475F11C0783B009B8FEF /* Browser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Browser;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2AA8477011C07843009B8FEF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2AA8477111C07843009B8FEF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2AA8478311C07956009B8FEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BrowserAppDelegate.m */;
+		name = "BrowserAppDelegate.m: 16";
+		rLen = 51;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 2140;
+		vrLoc = 0;
+	};
+	2AA847A711C07B97009B8FEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BrowserViewController.h */;
+		name = "BrowserViewController.h: 24";
+		rLen = 0;
+		rLoc = 636;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	2AA847B211C07D42009B8FEF /* icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 834}, {750, 558}}";
+		};
+	};
+	2AA847BB11C07D73009B8FEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BrowserViewController.m */;
+		name = "BrowserViewController.m: 112";
+		rLen = 0;
+		rLoc = 2683;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 1596;
+	};
+	2AA847BC11C07D73009B8FEF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2AA847B211C07D42009B8FEF /* icon.png */;
+	};
+	2AA847BD11C07D73009B8FEF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Browser-Info.plist */;
+	};
+	2AA847C811C07E3D009B8FEF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Browser-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/tnovinger/Projects/iPhone Applications/Browser/Browser-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

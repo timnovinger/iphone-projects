@@ -1,0 +1,255 @@
+TAmIDown
+v7
+r0
+t292794601.481724
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/Info.plist" AmIDown-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown" normal i386
+cGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown"
+cTouch "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BBF2A710000000000000110
+t1270819441
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch
+c000000004BC3792900000000000000B7
+t1271101737
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.h
+c000000004BC3792900000000000001DB
+t1271101737
+s475
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+c000000004BC3792900000000000003B8
+t1271101737
+s952
+i"AmIDownAppDelegate.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.h
+c000000004BC3792900000000000000EC
+t1271101737
+s236
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+c000000004BC3792900000000000005B3
+t1271101737
+s1459
+i"FirstViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib
+c000000004BC3792900000000000078EF
+t1271101737
+s30959
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib
+c000000004BC379290000000000004BFA
+t1271101737
+s19450
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDown.LinkFileList
+c000000004BC3796600000000000001B8
+t1271101798
+s440
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDownAppDelegate.o
+t1271101800
+s46720
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/FirstViewController.o
+t1271101800
+s34376
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/main.o
+t1271101800
+s5972
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app
+t1271101801
+s238
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app.dSYM
+t1271101801
+s102
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown
+t1271101801
+s19448
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/Info.plist
+t1271101798
+s589
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/MainWindow.nib
+t1271101799
+s2711
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/PkgInfo
+t1271101798
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/SecondView.nib
+t1271101799
+s1706
+
+N/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+c000000004BC379290000000000000167
+t1271101737
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch.gch
+t1271101800
+s15154192
+
+NAmIDown-Info.plist
+c000000004BC37966000000000000038B
+t1271101798
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292794598#292794598#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDownAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292794600.777964
+e292794600.894625
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDownAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m292794600#292794600#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m4300739032#2142"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/AmIDownAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDownAppDelegate.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/FirstViewController.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292794600.893710
+e292794600.944530
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/FirstViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m292794600#292794600#0(0"0(0#0#83"/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m4300739032#2144"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/Classes/FirstViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/FirstViewController.o"0#
+
+CCompileC build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292794600.776664
+e292794600.893623
+r1
+xCompileC
+xbuild/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/main.o
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m292794600#292794600#0(0"0(0#0#60"/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m4300739032#2106"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"
+s292794598.406318
+e292794599.785111
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292794598#292794599#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib4300739032#593"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/MainWindow.xib"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"
+s292794598.448909
+e292794599.785231
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib
+lSLF07#2@25"CompileXIB SecondView.xib292794598#292794599#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib4300739032#593"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/SecondView.nib" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/SecondView.xib"0#
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown"
+s292794601.412228
+e292794601.461587
+r1
+xGenerateDSYMFile
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app.dSYM
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/AmIDown.app.dSYM build/Debug-iphonesimulator/AmIDown.app/AmIDown292794601#292794601#0(0"0(0#0#101"/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown4300739032#496"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown" -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app.dSYM"0#
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown" normal i386
+s292794600.944605
+e292794601.412149
+r1
+xLd
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown
+xnormal
+xi386
+lSLF07#2@106"Link /Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown292794600#292794601#0(0"0(0#0#0"4300739032#1009"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/Objects-normal/i386/AmIDown.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/AmIDown"0#
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/Info.plist" AmIDown-Info.plist
+s292794598.382578
+e292794598.406243
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/Info.plist
+xAmIDown-Info.plist
+lSLF07#2@26"Process AmIDown-Info.plist292794598#292794598#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown-Info.plist8386093285582598144#592"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AmIDown-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch.gch AmIDown_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292794599.785321
+e292794600.776543
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch.gch
+xAmIDown_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile AmIDown_Prefix.pch292794599#292794600#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch4300739032#1981"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/AmIDown-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/AmIDown.build/Debug-iphonesimulator/AmIDown.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/AmIDown_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AmIDown_Prefix-gyccbzethrwhmoenkqnltoamvixv/AmIDown_Prefix.pch.gch0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app"
+s292794601.461742
+e292794601.481680
+r1
+xTouch
+x/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app
+lSLF07#2@99"Touch /Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app292794601#292794601#0(0"0(0#0#0"4300739032#374"    cd "/Users/tnovinger/Projects/iPhone Applications/AmIDown"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/AmIDown/build/Debug-iphonesimulator/AmIDown.app"0#
+

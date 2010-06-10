@@ -1,0 +1,444 @@
+TBrowser
+v7
+r0
+t297826396.112932
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Browser.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Info.plist" Browser-Info.plist
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib"
+cCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib"
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch.gch Browser_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch.gch Browser_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+c000000004C0698BA0000000000001DEE
+t1275500730
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib
+c000000004C1040BB0000000000001A45
+t1276133563
+s6725
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/Browser_Prefix.pch
+c000000004C1040BB00000000000000B7
+t1276133563
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.h
+c000000004C1040BB00000000000001D7
+t1276133563
+s471
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m
+c000000004C1040BB0000000000000A83
+t1276133563
+s2691
+i"BrowserAppDelegate.h"
+i"BrowserViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.h
+c000000004C1040D6000000000000026E
+t1276133590
+s622
+i<UIKit/UIKit.h>
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m
+c000000004C1040C80000000000000B9D
+t1276133576
+s2973
+i"BrowserViewController.h"
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib
+c000000004C1040BB0000000000004E29
+t1276133563
+s20009
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent
+t1276133596
+s420
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/Browser
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/Browser.LinkFileList
+c000000004C1040DA00000000000001A8
+t1276133594
+s424
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserAppDelegate.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserViewController.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/main.o
+t1276133595
+s6468
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/Browser
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/Browser.LinkFileList
+c000000004C1040DA00000000000001A8
+t1276133594
+s424
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserAppDelegate.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserViewController.o
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/main.o
+t1276133596
+s6452
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app.dSYM
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Browser
+t2
+s0
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/BrowserViewController.nib
+t1276133595
+s795
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Info.plist
+t1276133594
+s726
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/MainWindow.nib
+t1276133595
+s1123
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/PkgInfo
+t1276133594
+s8
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/ResourceRules.plist
+t1276133594
+s485
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision
+t1276133596
+s7662
+
+N/Users/tnovinger/Projects/iPhone Applications/Browser/main.m
+c000000004C1040BB0000000000000161
+t1276133563
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch.gch
+t1276133595
+s9831984
+
+N/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch.gch
+t1276133595
+s10290736
+
+NBrowser-Info.plist
+c000000004C1040BB000000000000038D
+t1276133563
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297826394#297826394#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCodeSign "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app"
+r0
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297826395.895639
+e297826395.940508
+r0
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m: In function '-[BrowserAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m:26: error: request for member 'view' in something not a structure or union
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m297826395#297826395#0(322"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m: In function '-[BrowserAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m:26: error: request for member 'view' in something not a structure or union1(4@63"Request for member 'view' in something not a structure or union297826395#164#158#0(6@82"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m297826363#26#0#26#0#0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m8608330880#2009"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserAppDelegate.o"1#
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297826395.940594
+e297826395.994968
+r0
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: warning: cannot find interface declaration for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'webView' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'addressBar' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'activityIndicator' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController viewDidLoad]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:36: error: no super class declared in @interface for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: (Each undeclared identifier is reported only once
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: for each function it appears in.)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:45: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController gotoAddress:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:51: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:55: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goBack:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:62: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goForward:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:67: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidStartLoad:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:73: error: 'activityIndicator' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidFinishLoad:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:78: error: 'activityIndicator' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webView:shouldStartLoadWithRequest:navigationType:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:89: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController didReceiveMemoryWarning]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:110: error: no super class declared in @interface for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController dealloc]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:122: error: no super class declared in @interface for 'BrowserViewController'
+lSLF07#2@93"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826395#297826395#0(4079"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: warning: cannot find interface declaration for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'webView' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'addressBar' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'activityIndicator' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController viewDidLoad]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:36: error: no super class declared in @interface for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: (Each undeclared identifier is reported only once/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: for each function it appears in.)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:45: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController gotoAddress:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:51: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:55: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goBack:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:62: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goForward:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:67: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidStartLoad:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:73: error: 'activityIndicator' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidFinishLoad:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:78: error: 'activityIndicator' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webView:shouldStartLoadWithRequest:navigationType:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:89: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController didReceiveMemoryWarning]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:110: error: no super class declared in @interface for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController dealloc]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:122: error: no super class declared in @interface for 'BrowserViewController'16(22@61"Cannot find interface declaration for 'BrowserViewController'297826395#0#161#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@59"No declaration of property 'webView' found in the interface297826395#161#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@62"No declaration of property 'addressBar' found in the interface297826395#318#160#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@69"No declaration of property 'activityIndicator' found in the interface297826395#478#167#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@65"No super class declared in @interface for 'BrowserViewController'297826395#784#163#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#36#0#36#0#0"0(4@49"'webView' undeclared (first use in this function)297826395#947#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#44#0#44#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826395#1372#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#45#0#45#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826395#1662#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#51#0#51#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826395#1812#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#55#0#55#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826395#2094#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#62#0#62#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826395#2379#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#67#0#67#0#43"'*' undeclared (first use in this function)0(4@59"'activityIndicator' undeclared (first use in this function)297826395#2674#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#73#0#73#0#43"'*' undeclared (first use in this function)0(4@59"'activityIndicator' undeclared (first use in this function)297826395#2980#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#78#0#78#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826395#3315#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#89#0#89#0#43"'*' undeclared (first use in this function)0(4@65"No super class declared in @interface for 'BrowserViewController'297826395#3616#164#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#110#0#110#0#0"0(4@65"No super class declared in @interface for 'BrowserViewController'297826395#3915#164#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#122#0#122#0#0"0(0#0#85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m8608255360#2015"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/BrowserViewController.o"1#
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/main.o "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297826395.894820
+e297826395.961790
+r1
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/main.m297826395#297826395#0(0"0(0#0#60"/Users/tnovinger/Projects/iPhone Applications/Browser/main.m8607500928#1973"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297826395.995051
+e297826396.069179
+r0
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserAppDelegate.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m: In function '-[BrowserAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m:26: error: request for member 'view' in something not a structure or union
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m297826395#297826396#0(322"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m: In function '-[BrowserAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m:26: error: request for member 'view' in something not a structure or union1(4@63"Request for member 'view' in something not a structure or union297826396#164#158#0(6@82"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m297826363#26#0#26#0#0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m8608778656#2009"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserAppDelegate.o"1#
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297826396.050748
+e297826396.098370
+r0
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserViewController.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: warning: cannot find interface declaration for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'webView' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'addressBar' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'activityIndicator' found in the interface
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController viewDidLoad]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:36: error: no super class declared in @interface for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: (Each undeclared identifier is reported only once
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: for each function it appears in.)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:45: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController gotoAddress:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:51: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:55: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goBack:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:62: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goForward:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:67: error: 'webView' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidStartLoad:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:73: error: 'activityIndicator' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidFinishLoad:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:78: error: 'activityIndicator' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webView:shouldStartLoadWithRequest:navigationType:]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:89: error: 'addressBar' undeclared (first use in this function)
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController didReceiveMemoryWarning]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:110: error: no super class declared in @interface for 'BrowserViewController'
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController dealloc]':
+o/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:122: error: no super class declared in @interface for 'BrowserViewController'
+lSLF07#2@93"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826396#297826396#0(4079"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: warning: cannot find interface declaration for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'webView' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'addressBar' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:13: error: no declaration of property 'activityIndicator' found in the interface/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController viewDidLoad]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:36: error: no super class declared in @interface for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: (Each undeclared identifier is reported only once/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:44: error: for each function it appears in.)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:45: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController gotoAddress:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:51: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:55: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goBack:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:62: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController goForward:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:67: error: 'webView' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidStartLoad:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:73: error: 'activityIndicator' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webViewDidFinishLoad:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:78: error: 'activityIndicator' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController webView:shouldStartLoadWithRequest:navigationType:]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:89: error: 'addressBar' undeclared (first use in this function)/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController didReceiveMemoryWarning]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:110: error: no super class declared in @interface for 'BrowserViewController'/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m: In function '-[BrowserViewController dealloc]':/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m:122: error: no super class declared in @interface for 'BrowserViewController'16(22@61"Cannot find interface declaration for 'BrowserViewController'297826396#0#161#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@59"No declaration of property 'webView' found in the interface297826396#161#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@62"No declaration of property 'addressBar' found in the interface297826396#318#160#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@69"No declaration of property 'activityIndicator' found in the interface297826396#478#167#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#13#0#13#0#0"0(4@65"No super class declared in @interface for 'BrowserViewController'297826396#784#163#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#36#0#36#0#0"0(4@49"'webView' undeclared (first use in this function)297826396#947#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#44#0#44#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826396#1372#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#45#0#45#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826396#1662#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#51#0#51#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826396#1812#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#55#0#55#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826396#2094#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#62#0#62#0#43"'*' undeclared (first use in this function)0(4@49"'webView' undeclared (first use in this function)297826396#2379#147#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#67#0#67#0#43"'*' undeclared (first use in this function)0(4@59"'activityIndicator' undeclared (first use in this function)297826396#2674#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#73#0#73#0#43"'*' undeclared (first use in this function)0(4@59"'activityIndicator' undeclared (first use in this function)297826396#2980#157#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#78#0#78#0#43"'*' undeclared (first use in this function)0(4@52"'addressBar' undeclared (first use in this function)297826396#3315#150#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#89#0#89#0#43"'*' undeclared (first use in this function)0(4@65"No super class declared in @interface for 'BrowserViewController'297826396#3616#164#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#110#0#110#0#0"0(4@65"No super class declared in @interface for 'BrowserViewController'297826396#3915#164#0(6@85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297826376#122#0#122#0#0"0(0#0#85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m8609483296#2015"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/BrowserViewController.o"1#
+
+CCompileC build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/main.o "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297826395.961879
+e297826396.050658
+r1
+xCompileC
+xbuild/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/main.o
+x/Users/tnovinger/Projects/iPhone Applications/Browser/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/main.m297826395#297826396#0(0"0(0#0#60"/Users/tnovinger/Projects/iPhone Applications/Browser/main.m8608540448#1973"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib"
+s297826394.891992
+e297826395.249611
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib
+lSLF07#2@36"CompileXIB BrowserViewController.xib297826394#297826395#0(0"0(0#0#79"/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib8608265376#677"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/BrowserViewController.nib" "/Users/tnovinger/Projects/iPhone Applications/Browser/BrowserViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib"
+s297826394.891392
+e297826395.270257
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297826394#297826395#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib8602290784#655"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/Browser.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s297826394.881054
+e297826394.891316
+r1
+xCpResource
+xbuild/Debug-iphoneos/Browser.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist297826394#297826394#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist5922070114188800000#576"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app"0#
+
+CCreateUniversalBinary "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Browser" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Browser"
+r0
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv6/Browser" normal armv6
+r0
+
+CLd "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Objects-normal/armv7/Browser" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Info.plist" Browser-Info.plist
+s297826394.884969
+e297826394.889210
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Info.plist
+xBrowser-Info.plist
+lSLF07#2@26"Process Browser-Info.plist297826394#297826394#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/Browser/Browser-Info.plist8607448352#692"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Browser-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/ResourceRules.plist" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/Info.plist"0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch.gch Browser_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297826395.270428
+e297826395.816517
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch.gch
+xBrowser_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Browser_Prefix.pch297826395#297826395#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/Browser/Browser_Prefix.pch8608904384#1854"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv6" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Browser_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bycexsqkxpxhfefpmskrgipcuggi/Browser_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch.gch Browser_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297826395.271279
+e297826395.894735
+r1
+xProcessPCH
+x/var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch.gch
+xBrowser_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Browser_Prefix.pch297826395#297826395#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/Browser/Browser_Prefix.pch8608636448#1854"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources/armv7" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/DerivedSources" -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Browser_Prefix.pch" -o /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-hhoteinaevqoujfmosqgofeoqnec/Browser_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision"
+s297826396.098551
+e297826396.099662
+r1
+xProcessProductPackaging
+x/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision
+x/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" build/Debug-iphoneos/Browser.app/embedded.mobileprovision297826396#297826396#0(0"0(0#0#111"/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision8608273760#523"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/tnovinger/Library/MobileDevice/Provisioning Profiles/CE068C60-2E66-4E63-9239-A00A42F34147.mobileprovision" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent"
+s297826396.099717
+e297826396.112875
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent297826396#297826396#0(0"0(0#0#116"/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent8607925952#528"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphoneos/Browser.build/Browser.xcent"0#
+
+CTouch "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphoneos/Browser.app"
+r0
+
