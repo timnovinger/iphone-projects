@@ -6,7 +6,7 @@
 	<dict>
 		<key>BrowserViewController.nib</key>
 		<data>
-		CJzWRO9k8fbEKMSE8mXTcnvMX6s=
+		/sPpbdesUr3uf8PMKAgrOQhSItM=
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
@@ -23,6 +23,14 @@
 		<key>icon.png</key>
 		<data>
 		yr6RHQRzishZmZUIgw1VeprcCFw=
+		</data>
+		<key>icon_05_no_shadow.png</key>
+		<data>
+		xV+i8/rfD4yF6ceBxMdpcVvyGLk=
+		</data>
+		<key>icon_06_no_shadow.png</key>
+		<data>
+		bqBFZoch7oORSgozpcFVYqMtcFE=
 		</data>
 	</dict>
 	<key>rules</key>
