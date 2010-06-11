@@ -15,6 +15,7 @@
 		2899E5220DE3E06400AC0155 /* BrowserViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* BrowserViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* BrowserViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* BrowserViewController.m */; };
+		2A186B1311C2F09E00200119 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A186B1211C2F09E00200119 /* Default.png */; };
 		2A7101D511C1206900578060 /* icon_05_no_shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A7101D311C1206900578060 /* icon_05_no_shadow.png */; };
 		2A7101D611C1206900578060 /* icon_06_no_shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A7101D411C1206900578060 /* icon_06_no_shadow.png */; };
 		2AA847B311C07D42009B8FEF /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AA847B211C07D42009B8FEF /* icon.png */; };
@@ -32,6 +33,7 @@
 		28D7ACF60DDB3853001CB0EB /* BrowserViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowserViewController.h; sourceTree = "<group>"; };
 		28D7ACF70DDB3853001CB0EB /* BrowserViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowserViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2A186B1211C2F09E00200119 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		2A7101D311C1206900578060 /* icon_05_no_shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_05_no_shadow.png; sourceTree = "<group>"; };
 		2A7101D411C1206900578060 /* icon_06_no_shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_06_no_shadow.png; sourceTree = "<group>"; };
 		2AA847B211C07D42009B8FEF /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = "../../../Design/ICONS/OS X icons/Safari_Replacement_Icon_by_seedling_design 2/icon.png"; sourceTree = SOURCE_ROOT; };
@@ -102,6 +104,7 @@
 				2899E5210DE3E06400AC0155 /* BrowserViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Browser-Info.plist */,
+				2A186B1211C2F09E00200119 /* Default.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				2AA847B311C07D42009B8FEF /* icon.png in Resources */,
 				2A7101D511C1206900578060 /* icon_05_no_shadow.png in Resources */,
 				2A7101D611C1206900578060 /* icon_06_no_shadow.png in Resources */,
+				2A186B1311C2F09E00200119 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -19,8 +19,5 @@
 @property(nonatomic, retain) UIActivityIndicatorView *activityIndicator;
 
 -(IBAction) gotoAddress:(id)sender;
--(IBAction) goForward:(id)sender;
--(IBAction) goBack:(id)sender;
--(IBAction) reload:(id)sender;
 
 @end

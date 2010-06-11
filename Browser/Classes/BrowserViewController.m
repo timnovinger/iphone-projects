@@ -34,42 +34,23 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-	
-	// Go to a homepage
-	NSString *urlAddress = @"http://www.google.com";
-	
-	NSURL *url = [NSURL URLWithString:urlAddress];
-	NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
-	
-	[webView loadRequest:requestObj];
-	[addressBar setText:urlAddress];
 }
 
 
 // Implement Address Bar
 - (IBAction)gotoAddress:(id) sender {
+	
+	// make sure url starts with “http://”
+	if (! [addressBar.text hasPrefix:@"http://"]) {
+		[addressBar setText:[NSString stringWithFormat:@"http://%@", addressBar.text]];
+	}
+	
 	NSURL *url = [NSURL URLWithString:[addressBar text]];
 	NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
 	
 	// Load the request in the UIWebView
 	[webView loadRequest:requestObj];
 	[addressBar resignFirstResponder];
-}
-
-
-// Implement navigation
-- (IBAction)goBack:(id)sender {
-	[webView goBack];
-}
-
-
-- (IBAction)goForward:(id)sender {
-	[webView goForward];
-}
-
-
-- (IBAction)reload:(id)sender {
-	[webView reload];
 }
 
 
@@ -80,6 +61,7 @@
 
 
 - (void)webViewDidFinishLoad:(UIWebView *)webView {
+	[addressBar setText:self.webView.request.URL.absoluteString];
 	[activityIndicator stopAnimating];
 }
 

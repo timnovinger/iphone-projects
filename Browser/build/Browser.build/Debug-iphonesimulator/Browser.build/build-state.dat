@@ -1,7 +1,7 @@
 TBrowser
 v7
 r0
-t297870438.564167
+t297988910.529703
 cCheck dependencies
 cProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist" Browser-Info.plist
 cCompileXIB "/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib"
@@ -9,6 +9,7 @@ cCompileXIB "/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewCo
 cCpResource build/Debug-iphonesimulator/Browser.app/icon.png "../../../Design/ICONS/OS X icons/Safari_Replacement_Icon_by_seedling_design 2/icon.png"
 cCpResource build/Debug-iphonesimulator/Browser.app/icon_05_no_shadow.png icon_05_no_shadow.png
 cCpResource build/Debug-iphonesimulator/Browser.app/icon_06_no_shadow.png icon_06_no_shadow.png
+cCpResource build/Debug-iphonesimulator/Browser.app/Default.png Default.png
 cProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch.gch Browser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -164,9 +165,9 @@ t1216961741
 s343728
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib
-c000000004C10ECDC00000000000082CD
-t1276177628
-s33485
+c000000004C12BBA700000000000083D1
+t1276296103
+s33745
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/Browser_Prefix.pch
 c000000004C1040BB00000000000000B7
@@ -189,21 +190,26 @@ i"BrowserAppDelegate.h"
 i"BrowserViewController.h"
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.h
-c000000004C104372000000000000028E
-t1276134258
-s654
+c000000004C12A428000000000000022E
+t1276290088
+s558
 i<UIKit/UIKit.h>
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m
-c000000004C10E2F60000000000000C1A
-t1276175094
-s3098
+c000000004C12AC770000000000000B4B
+t1276292215
+s2891
 i"BrowserViewController.h"
 
+N/Users/tnovinger/Projects/iPhone Example Apps/Browser/Default.png
+c000000004C12B91C0000000000002442
+t1276295452
+s9282
+
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib
-c000000004C1045750000000000006088
-t1276134773
-s24712
+c000000004C12AFBE0000000000005BA0
+t1276293054
+s23456
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList
 c000000004C10E25B00000000000001BA
@@ -211,44 +217,52 @@ t1276174939
 s442
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o
-t1276174941
+t1276290092
 s48376
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o
-t1276175095
-s46888
+t1276292222
+s45736
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o
 t1276174941
 s6332
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app
-t1276177638
-s408
+t1276296110
+s442
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app.dSYM
-t1276175095
+t1276292222
 s102
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser
-t1276175095
-s19916
+t1276292222
+s19596
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/BrowserViewController.nib
-t1276177638
-s2567
+t1276296110
+s2767
+
+N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Default.png
+t1276295711
+s9282
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist
-t1276134877
-s625
+t1276295711
+s680
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/MainWindow.nib
-t1276134877
+t1276293059
 s1123
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/PkgInfo
-t1276134877
+t1276295711
 s8
+
+N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/footer-bg.png
+t2
+s0
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/icon.png
 t1276134877
@@ -259,16 +273,21 @@ t1276176300
 s942
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/icon_05_no_shadow.png
-t1276176635
-s883
+t1276291592
+s49609
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/icon_06.png
 t1276176300
 s938
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/icon_06_no_shadow.png
-t1276176635
-s862
+t1276291592
+s49720
+
+N/Users/tnovinger/Projects/iPhone Example Apps/Browser/footer-bg.png
+c000000004A79229D00000000000002D6
+t1249452701
+s726
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05.png
 c000000004BBB625000000000000003AE
@@ -276,9 +295,9 @@ t1270571600
 s942
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05_no_shadow.png
-c000000004C10E8D50000000000000373
-t1276176597
-s883
+c000000004C12A782000000000000C1C9
+t1276290946
+s49609
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06.png
 c000000004BBB625000000000000003AA
@@ -286,9 +305,9 @@ t1270571600
 s938
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06_no_shadow.png
-c000000004C10E8B7000000000000035E
-t1276176567
-s862
+c000000004C12A7D5000000000000C238
+t1276291029
+s49720
 
 N/Users/tnovinger/Projects/iPhone Example Apps/Browser/main.m
 c000000004C1040BB0000000000000161
@@ -305,13 +324,13 @@ t1276133945
 s15232016
 
 NBrowser-Info.plist
-c000000004C1045D80000000000000395
-t1276134872
-s917
+c000000004C12B92300000000000003E1
+t1276295459
+s993
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies297870438#297870438#0(0"0(0#1#0"8635400256#0"0#
+lSLF07#2@18"Check dependencies297988909#297988909#0(0"0(0#1#0"3343187568374212096#0"0#
 
 CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s297827178.069528
@@ -327,8 +346,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m297827178#297827178#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m8617546784#2186"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-enwxrglmbpqokfejoswhprwkxkgs/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o"0#
 
 CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s297867741.063267
-e297867741.142700
+s297982892.183071
+e297982892.280525
 r1
 xCompileC
 xbuild/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o
@@ -337,7 +356,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m297867741#297867741#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m8619339712#2186"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o"0#
+lSLF07#2@90"Compile /Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m297982892#297982892#0(0"0(0#0#82"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m8606937920#2186"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserAppDelegate.m" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserAppDelegate.o"0#
 
 CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s297827537.070812
@@ -353,8 +372,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@93"Compile /Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m297827537#297827537#0(0"0(0#0#85"/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m8600395264#2192"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-enwxrglmbpqokfejoswhprwkxkgs/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/Classes/BrowserViewController.m" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o"0#
 
 CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s297867895.535883
-e297867895.657334
+s297985022.167043
+e297985022.294499
 r1
 xCompileC
 xbuild/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o
@@ -363,7 +382,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m297867895#297867895#0(0"0(0#0#85"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m8628992576#2192"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o"0#
+lSLF07#2@93"Compile /Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m297985022#297985022#0(0"0(0#0#85"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m8615632320#2192"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-generated-files.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-own-target-headers.hmap" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-all-target-headers.hmap" -iquote "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Browser-project-headers.hmap" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/include" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources/i386" "-I/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/DerivedSources" -include /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Classes/BrowserViewController.m" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/BrowserViewController.o"0#
 
 CCompileC build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/main.o "/Users/tnovinger/Projects/iPhone Applications/Browser/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s297826745.366804
@@ -408,17 +427,34 @@ x/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib297827677#297827677#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib8616459936#683"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Applications/Browser/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB "/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib"
-s297870438.120725
-e297870438.559551
+s297988909.342060
+e297988910.525660
 r1
 xCompileXIB
 x/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib
-lSLF07#2@36"CompileXIB BrowserViewController.xib297870438#297870438#0(0"0(0#0#79"/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib8633043936#705"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/BrowserViewController.nib" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+lSLF07#2@36"CompileXIB BrowserViewController.xib297988909#297988910#0(0"0(0#0#79"/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib8088782025717214208#705"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/BrowserViewController.nib" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/BrowserViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB "/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib"
-r0
+s297985858.695337
+e297985859.792961
+r1
+xCompileXIB
+x/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297985858#297985859#0(0"0(0#0#68"/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib8614725312#683"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/MainWindow.nib" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Browser.app/Default.png Default.png
+s297988511.235603
+e297988511.308783
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Browser.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png297988511#297988511#0(0"0(0#0#65"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Default.png8625697760#568"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/Default.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CCpResource build/Debug-iphonesimulator/Browser.app/Safari.png "../../../Design/ICONS/OS X icons/Safari_Replacement_Icon_by_seedling_design 2/Safari.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/Browser.app/footer-bg.png footer-bg.png
 r0
 
 CCpResource build/Debug-iphonesimulator/Browser.app/icon.png "../../../Design/ICONS/OS X icons/Safari_Replacement_Icon_by_seedling_design 2/icon.png"
@@ -440,13 +476,13 @@ xicon_05.png
 lSLF07#2@16"Copy icon_05.png297869099#297869100#0(0"0(0#0#65"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05.png8627039648#568"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CCpResource build/Debug-iphonesimulator/Browser.app/icon_05_no_shadow.png icon_05_no_shadow.png
-s297869435.611117
-e297869435.621755
+s297984392.251311
+e297984392.449813
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/Browser.app/icon_05_no_shadow.png
 xicon_05_no_shadow.png
-lSLF07#2@26"Copy icon_05_no_shadow.png297869435#297869435#0(0"0(0#0#75"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05_no_shadow.png8628279936#578"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05_no_shadow.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
+lSLF07#2@26"Copy icon_05_no_shadow.png297984392#297984392#0(0"0(0#0#75"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05_no_shadow.png8610006560#578"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_05_no_shadow.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CCpResource build/Debug-iphonesimulator/Browser.app/icon_06.png icon_06.png
 s297869099.988463
@@ -458,13 +494,13 @@ xicon_06.png
 lSLF07#2@16"Copy icon_06.png297869099#297869100#0(0"0(0#0#65"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06.png8629617120#568"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CCpResource build/Debug-iphonesimulator/Browser.app/icon_06_no_shadow.png icon_06_no_shadow.png
-s297869435.615355
-e297869435.629796
+s297984392.251975
+e297984392.459665
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/Browser.app/icon_06_no_shadow.png
 xicon_06_no_shadow.png
-lSLF07#2@26"Copy icon_06_no_shadow.png297869435#297869435#0(0"0(0#0#75"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06_no_shadow.png8631219808#578"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06_no_shadow.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
+lSLF07#2@26"Copy icon_06_no_shadow.png297984392#297984392#0(0"0(0#0#75"/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06_no_shadow.png8609767616#578"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tnovinger/Projects/iPhone Example Apps/Browser/icon_06_no_shadow.png" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app.dSYM" "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser"
 s297827537.207261
@@ -476,13 +512,13 @@ x/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulat
 lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Browser.app.dSYM build/Debug-iphonesimulator/Browser.app/Browser297827537#297827537#0(0"0(0#0#101"/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser8609041600#496"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser" -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app.dSYM" "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser"
-s297867895.677646
-e297867895.691732
+s297985022.359455
+e297985022.476240
 r1
 xGenerateDSYMFile
 x/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app.dSYM
 x/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Browser.app.dSYM build/Debug-iphonesimulator/Browser.app/Browser297867895#297867895#0(0"0(0#0#101"/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser8628819744#496"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app.dSYM"0#
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Browser.app.dSYM build/Debug-iphonesimulator/Browser.app/Browser297985022#297985022#0(0"0(0#0#101"/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser8615274400#496"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser" -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app.dSYM"0#
 
 CLd "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser" normal i386
 s297827537.185689
@@ -495,14 +531,14 @@ xi386
 lSLF07#2@106"Link /Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser297827537#297827537#0(0"0(0#0#0"8617459456#1047"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Browser"0#
 
 CLd "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser" normal i386
-s297867895.657411
-e297867895.677568
+s297985022.294574
+e297985022.359297
 r1
 xLd
 x/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser
 xnormal
 xi386
-lSLF07#2@106"Link /Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser297867895#297867895#0(0"0(0#0#0"8628859392#1047"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser"0#
+lSLF07#2@106"Link /Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser297985022#297985022#0(0"0(0#0#0"8615555200#1047"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" "-F/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator" -filelist "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Browser.build/Debug-iphonesimulator/Browser.build/Objects-normal/i386/Browser.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Browser"0#
 
 CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist" Browser-Info.plist
 s297827677.382348
@@ -514,7 +550,13 @@ xBrowser-Info.plist
 lSLF07#2@26"Process Browser-Info.plist297827677#297827677#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Applications/Browser/Browser-Info.plist8030553857122529280#592"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Browser-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist" Browser-Info.plist
-r0
+s297988511.220491
+e297988511.234259
+r1
+xProcessInfoPlistFile
+x/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist
+xBrowser-Info.plist
+lSLF07#2@26"Process Browser-Info.plist297988511#297988511#0(0"0(0#0#72"/Users/tnovinger/Projects/iPhone Example Apps/Browser/Browser-Info.plist8625404096#592"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Browser-Info.plist -genpkginfo "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app/Info.plist"0#
 
 CProcessPCH /var/folders/Mu/MuUJiSEQH94q0NIpS91agE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Browser_Prefix-bdpfchwlupsnxfdulpzmefcdsxie/Browser_Prefix.pch.gch Browser_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s297867740.358606
@@ -551,10 +593,10 @@ x/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulat
 lSLF07#2@99"Touch /Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app297827677#297827677#0(0"0(0#0#0"8610057984#374"    cd "/Users/tnovinger/Projects/iPhone Applications/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Applications/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
 CTouch "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"
-s297870438.560069
-e297870438.564126
+s297988910.526390
+e297988910.529276
 r1
 xTouch
 x/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app
-lSLF07#2@99"Touch /Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app297870438#297870438#0(0"0(0#0#0"8635519168#374"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
+lSLF07#2@99"Touch /Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app297988910#297988910#0(0"0(0#0#0"8618409024#374"    cd "/Users/tnovinger/Projects/iPhone Example Apps/Browser"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/tnovinger/Projects/iPhone Example Apps/Browser/build/Debug-iphonesimulator/Browser.app"0#
 
